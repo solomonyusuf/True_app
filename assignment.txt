@@ -1,0 +1,3 @@
+create a link and navigation for about and contact page
+on the contact  page create a form for users to reach you
+on the about page create a small write up and add your image to it.
