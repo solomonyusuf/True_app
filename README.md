@@ -1,3 +1,3 @@
 # true-_app
 
-this app is all about the scratch process of html tutorial.
+this app is all about the introductory process of html tutorial.
