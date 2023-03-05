@@ -1,3 +1,3 @@
-# true-_app
+# true_app
 
-this app is all about the introductory process of html tutorial.
+this is an html begginers tutorial on how to start with basic html tags.
